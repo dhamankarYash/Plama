@@ -1,4 +1,4 @@
-# VoiceGPT
+# Plama
 
 Steps to run this project
 
